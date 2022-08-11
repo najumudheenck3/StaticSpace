@@ -1,0 +1,207 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    font-family:  sans-serif;;
+}
+.header{
+    height: 623px;
+    max-width: 1350px;
+    padding-left: 50px;
+    background-image: url(space.image/space2.webp);
+    background-size: 100%,568px;
+    
+}
+.head1{
+    height: 50px;
+    width: 100%;
+    position: relative;
+    top: 10px;
+}
+.htop1{
+    height: 50px;
+    width: 200px;
+    background-image: url(space.image/logo.png);
+    background-size: 100%,50px;
+    float: left;
+}
+.htop2{
+    height: 50px;
+    width: 800px;
+    float: left ;
+    display: flex;
+    
+    
+}
+.htop2 h4{
+    position: relative;
+    top: 10px;
+    margin-left: 18px;
+    font-size: small;
+    color: #fff;
+
+}
+.htop2 h4:hover{
+    cursor: pointer;
+    border-bottom: 1px solid;
+}
+.htop3{
+    float: right;
+    height: 50px;
+    width: 200px;
+}
+
+.menulogo{
+    float: right;
+    height: 22px;
+    width: 22px;
+    position: relative;
+    top: 24px;
+    right: 30px;
+}
+.htop3 h4{
+    
+    position: relative;
+    top: 10px;
+    left: 80px;
+    font-size: small;
+    color: #fff;
+}
+.head2{
+    height: 300px;
+    width: 450px;
+    /* background-color: blueviolet; */
+    position: relative;
+    top: 250px;
+}
+.head2 h2{
+    color: #fff;
+    font-weight: lighter;
+    position: absolute;
+    top: 85px;
+    font-size: large;
+}
+.head2 h1{
+    color: #fff;
+    font-weight: bolder;
+    position: absolute;
+    top: 100px;
+    
+}
+.head2 button{
+    width: 170px;
+    height: 53px;
+    position: absolute;
+    top: 194px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+}
+.head2 button:hover{
+    cursor: pointer;
+    background-color: #fff;
+    color: black;
+  
+}
+.second{
+    height: 624px;
+    max-width: 1350px;
+    padding-left: 50px;
+    background-image: url(space.image/space5.webp);
+    background-size: 100%,568px;
+    
+}
+.third{
+    margin-top: 0px;
+    height: 623px;
+    max-width: 1350px;
+    padding-left: 50px;
+    background-image: url(space.image/space3.webp);
+    background-size: 100%,568px;
+}
+.four{
+    margin-top: 0px;
+    height: 624px;
+    max-width: 1350px;
+    padding-left: 50px;
+    background-image: url(space.image/space4.webp);
+    background-size: 100%,568px;
+}
+.fhead2{
+    height: 300px;
+    width: 450px;
+    /* background-color: blueviolet; */
+    position: relative;
+    top: 250px;
+}
+
+.fhead2 .h13{
+    color: #fff;
+    font-weight: bolder;
+    position: absolute;
+    top: 100px;
+    
+}
+.fhead2 button{
+    width: 170px;
+    height: 53px;
+    position: absolute;
+    top: 194px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+}
+.fhead2 button:hover{
+    cursor: pointer;
+    background-color: #fff;
+    color: black;
+  
+}
+.fhead2 .h12{
+    color: #fff;
+    font-weight: bolder;
+    position: absolute;
+    top: 65px;
+    
+}
+.fhead2 .h11{
+    color: #fff;
+    font-weight: bolder;
+    position: absolute;
+    top: 30px;
+    
+}
+.footer{
+    height: 60px;
+    max-width: 1350px;
+    background-color: black;
+    padding-top: 20px;
+    padding-left: 260px;
+}
+.foot1{
+   
+    height: 50px;
+    max-width: 830px;
+    /* background-color: blue; */
+    display: flex;
+}
+.footnam{
+    color:#979797;
+    font-weight: lighter;
+    font-size: small;
+    margin-left: 40px;
+    
+}
+.footname{
+    color: #fff;
+    font-weight: bolder;
+    font-size: small;
+    margin-left: 18px;
+    float: left;
+}
+.footname:hover{
+    cursor: pointer;
+    color: #979797;
+}
